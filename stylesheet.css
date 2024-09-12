@@ -1,0 +1,13 @@
+h1 {
+    margin: 0 auto;
+    display: flex; justify-content: center; align-items: center;
+    display: grid;
+}
+div {
+    margin: 170px;
+}
+
+body {
+    background-image: url("background.jpg");
+    color: aliceblue;
+}
